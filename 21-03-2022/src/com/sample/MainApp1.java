@@ -14,7 +14,7 @@ public class MainApp1 {
 				}.start();
 				//using runnable interface
 			Runnable rob= new Runnable() {
-					public void runI()
+					public void run()
 					{
 						System.out.println("runnable run method");
 					}
